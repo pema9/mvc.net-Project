@@ -1,0 +1,52 @@
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\appsettings.json
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.staticwebassets.runtime.json
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.exe
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.deps.json
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.runtimeconfig.json
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.dll
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.pdb
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.csproj.AssemblyReference.cache
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.AssemblyInfoInputs.cache
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.AssemblyInfo.cs
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.csproj.CoreCompileInputs.cache
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.RazorAssemblyInfo.cache
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.RazorAssemblyInfo.cs
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\scopedcss\bundle\WasteManagement System.styles.css
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\scopedcss\projectbundle\WasteManagement System.bundle.scp.css
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.dll
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\refint\WasteManagement System.dll
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.pdb
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.genruntimeconfig.cache
+C:\Users\delll\Desktop\ASpNet\WasteManagement System\WasteManagement System\obj\Debug\net6.0\ref\WasteManagement System.dll
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.staticwebassets.runtime.json
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.exe
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.deps.json
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.runtimeconfig.json
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.dll
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\bin\Debug\net6.0\WasteManagement System.pdb
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.AssemblyInfo.cs
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\scopedcss\bundle\WasteManagement System.styles.css
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\scopedcss\projectbundle\WasteManagement System.bundle.scp.css
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.dll
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\refint\WasteManagement System.dll
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.pdb
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\WasteManagement System.genruntimeconfig.cache
+C:\Users\Dell\Desktop\WasteManagement System\WasteManagement System\obj\Debug\net6.0\ref\WasteManagement System.dll
